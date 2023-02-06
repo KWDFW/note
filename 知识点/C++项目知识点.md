@@ -8,4 +8,5 @@
 ### 1.1.3 vscode远程连接虚拟机
   vscode中安装Remote Developme插件
   在远程资源管理器中配置ssh并连接
-  
+## 1.2 GCC(1)
+
